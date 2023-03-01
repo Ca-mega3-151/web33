@@ -51,7 +51,8 @@ body {
 /* section welcome */
 .welcome {
   margin-top: 120px;
-  background: url("img/anh/leaf.png") no-repeat left center/12, 5%;
+  background: url("../img/anh/leaf.png");
+  background-repeat: no-repeat;
 }
 
 .img_welcome {
