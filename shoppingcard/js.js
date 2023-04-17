@@ -9,7 +9,7 @@ let products = [
     image:
       "https://image.yes24.vn/Upload/ProductImage/anhduong201605/1947415_L.jpg?width=550&height=550",
     count: 1,
-  },
+  }, 
   {
     id: 2,
     name: "Áo trắng bèo lé đen tay loe dễ thương",
