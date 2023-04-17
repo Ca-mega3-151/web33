@@ -207,14 +207,18 @@ header h2 {
   color: #999;
   font-size: 18px;
 }
+.btn-volumn {
+  display: flex;
+}
 
 .btn-volumn i {
   position: relative;
 }
 
-.input-volumn {
-  position: absolute;
-  top: -10;
+#volumeSlider {
   display: none;
 }
 
+.btn-volumn i:hover + #volumeSlider {
+  display: block;
+}
