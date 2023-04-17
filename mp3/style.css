@@ -219,6 +219,6 @@ header h2 {
   display: none;
 }
 
-.btn-volumn i:hover + #volumeSlider {
+.btn-volumn:hover #volumeSlider {
   display: block;
 }
