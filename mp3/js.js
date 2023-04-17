@@ -9,7 +9,7 @@ let songs = [
   {
     title: "Chơi Đồ",
     singer: "MCK",
-    src: "./Choi-Do-MCK-Wxrdie-Sony-Tran.mp3.mp3",
+    src: "./Choi-Do-MCK-Wxrdie-Sony-Tran.mp3",
     img: "./choido.jpg",
   },
   {
@@ -133,4 +133,3 @@ media.volume = volume.value;
 $("#volumeSlider").on("input", function () {
   media.volume = this.value;
 });
-
