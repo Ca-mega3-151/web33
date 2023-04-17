@@ -11,8 +11,9 @@ let songs = [
     singer: "MCK",
     src: "./Choi-Do-MCK-Wxrdie-Sony-Tran.mp3",
     img: "./choido.jpg",
-  },
-  {
+  }, 
+  
+  {  
     title: "Thôi Hẹn Em",
     singer: "Madihu",
     src: "./Thoi-Hen-Em-Madihu.mp3",
