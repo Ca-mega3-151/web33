@@ -211,10 +211,6 @@ header h2 {
   display: flex;
 }
 
-.btn-volumn i {
-  position: relative;
-}
-
 #volumeSlider {
   display: none;
 }
